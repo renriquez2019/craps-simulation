@@ -1,0 +1,19 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (OpenGL First.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Graphics.cpp
+  app.cpp
+  bonusmenu.cpp
+c:\users\ben\source\repos\opengl first\opengl first\bonusmenu.cpp(65): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  diceusers.cpp
+  Exit.cpp
+  getbonus.cpp
+  Gamemenu.cpp
+c:\users\ben\source\repos\opengl first\opengl first\gamemenu.cpp(211): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\ben\source\repos\opengl first\opengl first\gamemenu.cpp(226): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  leaderscoreboard.cpp
+  projectmain.cpp
+  statistics.cpp
+  UserChances.cpp
+  Generating Code...
+c:\users\ben\source\repos\opengl first\opengl first\statistics.cpp(82): warning C4715: 'Statistics::process': not all control paths return a value
+c:\users\ben\source\repos\opengl first\opengl first\diceusers.cpp(49): warning C4715: 'DiceUsers::buyChanses': not all control paths return a value
+  OpenGL First.vcxproj -> C:\Users\Ben\source\repos\OpenGL First\Debug\Doubles.exe
